@@ -209,11 +209,11 @@ parkinsons-disease-main/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/parkinsons-disease-main.git
+git clone https://github.com/ZoohaFatima/parkinsons-disease-prediction.git
 ```
 
 ```bash
-cd parkinsons-disease-main
+cd parkinsons-disease-prediction
 ```
 
 ---
